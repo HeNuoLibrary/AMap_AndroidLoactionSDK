@@ -147,7 +147,7 @@ public class LocationServiceBehaviour : MonoBehaviour
 
   例如 : 
 
-  ![](C:\Users\HeNuo\Desktop\AMap_AndroidSDK\MDImages\c6022ce4-5026-4782-8f91-9b629f898cfb.png)
+  ![](C:\Users\HeNuo\Desktop\AMap_AndroidLoactionSDK\MDImages\c6022ce4-5026-4782-8f91-9b629f898cfb.png)
 
 - 在高德控制台中添加key
 
@@ -161,7 +161,7 @@ public class LocationServiceBehaviour : MonoBehaviour
 
 - 创建AndroidStudio工程 将下载的Android定位SDK导入制作AMapLocationModeHelper助手
 
-  ![](C:\Users\HeNuo\Desktop\AMap_AndroidSDK\MDImages\1280X1280.PNG)
+  ![](C:\Users\HeNuo\Desktop\AMap_AndroidLoactionSDK\MDImages\1280X1280.PNG)
 
 AMapLocationModeHelper 具体内容
 
@@ -215,7 +215,7 @@ public class AMapLocationModeHelper {
 
 - 插件导入unity 将上一步得到的 jar包和高德Android定位SDK导入到unity中
 
-  ![](C:\Users\HeNuo\Desktop\AMap_AndroidSDK\MDImages\e95b6229-ca48-4569-874d-b5bf842c584f.png)
+  ![](C:\Users\HeNuo\Desktop\AMap_AndroidLoactionSDK\MDImages\e95b6229-ca48-4569-874d-b5bf842c584f.png)
 
 - 配置AndroidManifest.xml文件 参考 : [获取定位数据-获取位置-开发指南-Android 定位SDK | 高德地图API](https://lbs.amap.com/api/android-location-sdk/guide/android-location/getlocation)
 
